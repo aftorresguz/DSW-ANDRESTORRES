@@ -2,7 +2,7 @@
 
 body{font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;}
 .titulo{text-align: center;}
-.menu{justify-content: space-between;width: 150 px ;padding: 20px ;}
+.menu{justify-content: space-between;padding: 20px ;}
 .tabla{width: 80%; margin: 40px;}
 body {background:  #F0B429;}
 .html5 {border-radius: 15px;}
