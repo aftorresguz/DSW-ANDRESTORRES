@@ -4,7 +4,7 @@ body{font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;}
 .titulo{text-align: center;}
 .menu{justify-content: space-between;padding: 20px ;}
 .tabla{width: 80%; margin: 40px;}
-body {background:  #2271b3;}
+body {background:  #c2e3fd;}
 .html5 {border-radius: 15px;}
 .menu ul{padding: 20px;background-color: #50B748;text-decoration: none;display: flex;justify-content: space-between;}
 .menu ul a {font-family: Arial, Helvetica, sans-serif;color: black;font-weight: 600;}
