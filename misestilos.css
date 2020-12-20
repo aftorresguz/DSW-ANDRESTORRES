@@ -42,7 +42,7 @@ body{font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;}
 body {background:  	#86f582;}
 
 .menu ul{padding: 1px;text-decoration: none;display: online inline-block;justify-content: space-between;}
-.menu ul a {font-family: Arial, Helvetica, sans-serif;color: black;font-weight: 1000;}
+.menu ul a {font-family: Arial, Helvetica, sans-serif;color: black;}
 .menu ul a:hover {background: #f3f5f2;color: rgb(8, 7, 7);}
 .colums{text-indent: 50px;font-size: 30px;}
 .inicio{font-size: 80px;text-indent: 100px;}
@@ -58,15 +58,9 @@ body {background:  	#86f582;}
 .body-container {display: flex;}
 .columns {width:55%;margin: 35px;}
 
-
-
-
-
-
 header{
 	width: 100%;
 }
-
 
 .menu > li{
 	position: relative;
